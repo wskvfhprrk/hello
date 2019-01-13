@@ -1,4 +1,4 @@
-#! /bin/bash  # employ bash shell
+#! /bin/bash
 
 #拉取代码
 git pull
