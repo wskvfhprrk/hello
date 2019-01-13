@@ -4,7 +4,7 @@
 git pull
 
 #编译
-mvn clean compile package -Dmaven.test.skip=true
+mvn clean package -Dmaven.test.skip=true
 
 #docker
 docker build -t hello .
